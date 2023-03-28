@@ -1,0 +1,20 @@
+.btn {
+    color: #fff;
+    font-family: Graphik;
+    font-weight: 500;
+    font-size: 17px;
+    letter-spacing: 0.2px;
+    line-height: 25px;
+    text-transform: capitalize;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 148px;
+    height: 52px;
+    background: #4452FE;
+    box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+
+    margin: 0 auto 57px;
+}
